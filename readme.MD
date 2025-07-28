@@ -27,7 +27,7 @@ This scenario can be deployed to Azure using the [Azure Developer CLI - AZD](htt
 
 1. From within a new folder on your machine, run `azd init` to initialize the deployment.
 ```
-azd init -t daverendon/azd-baseline-webapp
+azd init -t daverendon/azd-microsoft-sentinel
 ```
 2. Next, run `azd up` to trigger an actual deployment.
 ```
