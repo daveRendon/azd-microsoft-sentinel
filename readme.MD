@@ -38,6 +38,6 @@ azd up
 azd down --purge --force
 ```
 
-⏩ Note: running `azd down` deletes the RG and Resources, but will keep the artifacts on your local machine.
+⏩ Note: running `azd down` deletes the RG and Resources, but will keep the artifacts on your local machine. Re-run the azd up command again if any issues arise.
 
 
