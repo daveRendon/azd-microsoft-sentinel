@@ -5,7 +5,7 @@
 This repo contains a demo for deploying Microsoft Sentinel and  start collecting data from Azure Activity and Microsoft Defender for Cloud, add built in and custom alerts, and review how Playbooks can be used to automate a response to an incident.
 
 
-👉 https://blog.azinsider.net/using-infrastructure-as-code-to-create-a-proof-of-concept-of-microsoft-sentinel-based-threat-a7f01c3577e0
+👉 https://blog.azinsider.net/deploy-microsoft-sentinel-with-azd-84a100338f1a?sk=91b2c37190849152051e1cb4374ffa89
 
 
 ![Solution Architecture Diagram](https://raw.githubusercontent.com/daverendon/azd-microsoft-sentinel/refs/heads/main/demoguide/azd-microsoft-sentinel-diagram.png)
